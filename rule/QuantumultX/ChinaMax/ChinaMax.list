@@ -1625,7 +1625,6 @@ HOST-SUFFIX,scomper.me,ChinaMax
 HOST-SUFFIX,scopus.com,ChinaMax
 HOST-SUFFIX,seafile.com,ChinaMax
 HOST-SUFFIX,segmentfault.com,ChinaMax
-HOST-SUFFIX,servicewechat.com,ChinaMax
 HOST-SUFFIX,sf-express.com,ChinaMax
 HOST-SUFFIX,sharepoint.com,ChinaMax
 HOST-SUFFIX,siam.org,ChinaMax
@@ -28246,7 +28245,6 @@ HOST-SUFFIX,hivictor.net,ChinaMax
 HOST-SUFFIX,hiwafer.com,ChinaMax
 HOST-SUFFIX,hiwbb.com,ChinaMax
 HOST-SUFFIX,hiwebgl.com,ChinaMax
-HOST-SUFFIX,hiwechats.com,ChinaMax
 HOST-SUFFIX,hiwemeet.com,ChinaMax
 HOST-SUFFIX,hiwenku.com,ChinaMax
 HOST-SUFFIX,hiworld.com,ChinaMax
@@ -36698,7 +36696,6 @@ HOST-SUFFIX,legendsec.com,ChinaMax
 HOST-SUFFIX,legendtkl.com,ChinaMax
 HOST-SUFFIX,legoflow.com,ChinaMax
 HOST-SUFFIX,legou456.com,ChinaMax
-HOST-SUFFIX,legowechat.com,ChinaMax
 HOST-SUFFIX,legu.cc,ChinaMax
 HOST-SUFFIX,legu168.com,ChinaMax
 HOST-SUFFIX,leguyu.com,ChinaMax
@@ -43696,7 +43693,6 @@ HOST-SUFFIX,phdwu.com,ChinaMax
 HOST-SUFFIX,phedu.net,ChinaMax
 HOST-SUFFIX,phezzan.com,ChinaMax
 HOST-SUFFIX,philanthropy.xin,ChinaMax
-HOST-SUFFIX,philipswechat.com,ChinaMax
 HOST-SUFFIX,phlexing.com,ChinaMax
 HOST-SUFFIX,phnamedns.com,ChinaMax
 HOST-SUFFIX,phnixpool.com,ChinaMax
@@ -45732,7 +45728,6 @@ HOST-SUFFIX,qqtz.com,ChinaMax
 HOST-SUFFIX,qqu.cc,ChinaMax
 HOST-SUFFIX,qqumall.com,ChinaMax
 HOST-SUFFIX,qqvv88.com,ChinaMax
-HOST-SUFFIX,qqwechat.com,ChinaMax
 HOST-SUFFIX,qqwmly.com,ChinaMax
 HOST-SUFFIX,qqwmx.com,ChinaMax
 HOST-SUFFIX,qqwtb.com,ChinaMax
@@ -50679,7 +50674,6 @@ HOST-SUFFIX,subangjia.com,ChinaMax
 HOST-SUFFIX,subaonet.com,ChinaMax
 HOST-SUFFIX,subaotuan.com,ChinaMax
 HOST-SUFFIX,subingkang.com,ChinaMax
-HOST-SUFFIX,subinwechat.com,ChinaMax
 HOST-SUFFIX,sublimetextcn.com,ChinaMax
 HOST-SUFFIX,subline.org,ChinaMax
 HOST-SUFFIX,subo.net,ChinaMax
@@ -56074,12 +56068,6 @@ HOST-SUFFIX,wecash.net,ChinaMax
 HOST-SUFFIX,wecatch.me,ChinaMax
 HOST-SUFFIX,wecenter.com,ChinaMax
 HOST-SUFFIX,weceshi.com,ChinaMax
-HOST-SUFFIX,wechat.com,ChinaMax
-HOST-SUFFIX,wechat.org,ChinaMax
-HOST-SUFFIX,wechat007.com,ChinaMax
-HOST-SUFFIX,wechatapp.com,ChinaMax
-HOST-SUFFIX,wechatify.net,ChinaMax
-HOST-SUFFIX,wechatpay.com.hk,ChinaMax
 HOST-SUFFIX,weclassroom.com,ChinaMax
 HOST-SUFFIX,wecloudx.com,ChinaMax
 HOST-SUFFIX,wecom.work,ChinaMax
@@ -61814,7 +61802,6 @@ HOST-SUFFIX,yizhifubj.com,ChinaMax
 HOST-SUFFIX,yizhikan.com,ChinaMax
 HOST-SUFFIX,yizhishenbi.com,ChinaMax
 HOST-SUFFIX,yizhitou.com,ChinaMax
-HOST-SUFFIX,yizhiwechat.com,ChinaMax
 HOST-SUFFIX,yizhixiaogame.com,ChinaMax
 HOST-SUFFIX,yizimg.com,ChinaMax
 HOST-SUFFIX,yizlife.com,ChinaMax
@@ -65918,7 +65905,6 @@ HOST-SUFFIX,zwdsty.com,ChinaMax
 HOST-SUFFIX,zwdu.app,ChinaMax
 HOST-SUFFIX,zwdu.com,ChinaMax
 HOST-SUFFIX,zwduxs.com,ChinaMax
-HOST-SUFFIX,zwechat.com,ChinaMax
 HOST-SUFFIX,zwfw.com,ChinaMax
 HOST-SUFFIX,zwgeek.com,ChinaMax
 HOST-SUFFIX,zwhz.com,ChinaMax
@@ -68440,8 +68426,6 @@ HOST-SUFFIX,url.cn,ChinaMax
 HOST-SUFFIX,urldx.cn,ChinaMax
 HOST-SUFFIX,urlshare.cn,ChinaMax
 HOST-SUFFIX,wanjiashow.com,ChinaMax
-HOST-SUFFIX,wechatlegal.net,ChinaMax
-HOST-SUFFIX,wechatpay.com,ChinaMax
 HOST-SUFFIX,wegame.com.cn,ChinaMax
 HOST-SUFFIX,weiaixiaoshuo.com,ChinaMax
 HOST-SUFFIX,wesingapp.com,ChinaMax
@@ -69427,7 +69411,6 @@ USER-AGENT,QQ*,ChinaMax
 USER-AGENT,RemotePlay*,ChinaMax
 USER-AGENT,TIM*,ChinaMax
 USER-AGENT,TeamViewer*,ChinaMax
-USER-AGENT,WeChat*,ChinaMax
 USER-AGENT,WebTorrent*,ChinaMax
 USER-AGENT,YYeTs*,ChinaMax
 USER-AGENT,arrowio*,ChinaMax
