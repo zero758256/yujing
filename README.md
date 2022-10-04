@@ -29,21 +29,21 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
 
 ### 脚本说明
 
-| 脚本                                                         | 介绍                                 | 框架      | 维护状态 |
-| ------------------------------------------------------------ | ------------------------------------ | --------- | -------- |
-| [知乎助手](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/zhihu) | 使用纯净版知乎是一种怎么样的体验？   | MagicJS 2 | 正常     |
-| ~~[哔哩哔哩](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/bilibili)~~ | ~~没有广告的哔哩哔哩更值得干杯~~     | MagicJS 2 | 停止     |
-| [什么值得买](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/smzdm) | 什么值得买签到和去广告脚本           | MagicJS 3 | 正常     |
-| [百度贴吧](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/tieba) | 带重试功能的贴吧签到，提高签到成功率 | MagicJS 3 | 正常     |
-| [开屏去广告](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/startup) | 通过脚本去除缓存到本地的APP开屏广告  | MagicJS 2 | 正常     |
-| [慢慢买](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/manmanbuy) | 每日自动签到                         | MagicJS 2 | 正常     |
-| [叮咚买菜](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/dingdong) | 每日自动签到                         | MagicJS 3 | 正常     |
-| [饿了么](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/eleme) | 每日自动领取吃货豆和会员任务         | MagicJS 3 | 正常     |
-| [Fa米家](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/famijia) | 每日自动签到                         | MagicJS 2 | 正常     |
-| [Luka](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/luka) | 每日自动签到                         | MagicJS 2 | 正常     |
-| [美团买菜](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/meituan) | 每日自动签到                         | MagicJS 2 | 正常     |
-| [Synology](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/synology) | 群晖Download Station资源离线下载     | MagicJS 3 | 正常     |
-| [AppleStore](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/applestore) | AppleStore 商品库存监控              | MagicJS 3 | 正常     |
+| 脚本                                                         | 介绍                                 |
+| ------------------------------------------------------------ | ------------------------------------ | --------- |
+| [知乎助手](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/zhihu) | 使用纯净版知乎是一种怎么样的体验？|
+| ~~[哔哩哔哩](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/bilibili)~~ | ~~没有广告的哔哩哔哩更值得干杯~~|
+| [什么值得买](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/smzdm) | 什么值得买签到和去广告脚本|
+| [百度贴吧](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/tieba) | 带重试功能的贴吧签到，提高签到成功率|
+| [开屏去广告](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/startup) | 通过脚本去除缓存到本地的APP开屏广告|
+| [慢慢买](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/manmanbuy) | 每日自动签到|
+| [叮咚买菜](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/dingdong) | 每日自动签到|
+| [饿了么](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/eleme) | 每日自动领取吃货豆和会员任务|
+| [Fa米家](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/famijia) | 每日自动签到|
+| [Luka](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/luka) | 每日自动签到|
+| [美团买菜](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/meituan) | 每日自动签到|
+| [Synology](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/synology) | 群晖Download Station资源离线下载|
+| [AppleStore](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/applestore) | AppleStore 商品库存监控|
 
 #### Quantumult X Gallery
 
