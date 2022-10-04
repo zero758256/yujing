@@ -30,7 +30,7 @@ https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
 ### 脚本说明
 
 | 脚本                                                         | 介绍                                 |
-| ------------------------------------------------------------ | ------------------------------------ | --------- |
+| ------------------------------------------------------------ | ------------------------------------|
 | [知乎助手](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/zhihu) | 使用纯净版知乎是一种怎么样的体验？|
 | ~~[哔哩哔哩](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/bilibili)~~ | ~~没有广告的哔哩哔哩更值得干杯~~|
 | [什么值得买](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/smzdm) | 什么值得买签到和去广告脚本|
