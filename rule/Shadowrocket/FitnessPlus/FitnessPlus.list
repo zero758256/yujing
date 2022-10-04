@@ -1,8 +1,0 @@
-# NAME: FitnessPlus
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-09-25 02:32:06
-# DOMAIN: 2
-# TOTAL: 2
-DOMAIN,amp-api.fitness.apple.com,PROXY
-DOMAIN,hls-svod.itunes.apple.com,PROXY
