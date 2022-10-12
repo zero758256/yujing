@@ -5,10 +5,10 @@
 
 ## 传送门
 
-分流规则
+分流
 
 https://github.com/xiaochengshiguduo/xiaochengshiguduo/tree/master/rule/QuantumultX
 
-复写规则
+复写
 
 https://github.com/xiaochengshiguduo/xiaochengshiguduo/tree/master/rewrite/QuantumultX
