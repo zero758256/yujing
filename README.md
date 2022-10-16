@@ -7,8 +7,12 @@
 
 分流
 
-https://github.com/xiaochengshiguduo/xiaochengshiguduo/tree/master/rule/QuantumultX
+https://github.com/xiaochengshiguduo/xiaochengshiguduo/tree/master/rule
 
 复写
 
-https://github.com/xiaochengshiguduo/xiaochengshiguduo/tree/master/rewrite/QuantumultX
+https://github.com/xiaochengshiguduo/xiaochengshiguduo/tree/master/rewrite
+
+解锁
+
+https://github.com/xiaochengshiguduo/xiaochengshiguduo/tree/master/Unlock
