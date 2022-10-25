@@ -5,6 +5,10 @@
 
 ## 传送门
 
+自用懒人配置（不一定适合你，慎用）
+
+https://raw.githubusercontent.com/xiaochengshiguduo/xiaochengshiguduo/master/xiaocheng.conf
+
 分流
 
 https://github.com/xiaochengshiguduo/xiaochengshiguduo/tree/master/rule
